@@ -2,10 +2,9 @@
 
 for letter in 'Python':     # First Example
    print 'Current Letter :', letter
-
 fruits = ['banana', 'apple',  'Guva']
-Hello
+print "siva"
 for fruit in fruits:        # Second Example
-   print 'Current fruit :', fruit
+   print 'Current fruit :', apple
 
 print "Good bye!"
