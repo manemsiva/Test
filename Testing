@@ -3,7 +3,7 @@
 for letter in 'Python':     # First Example
    print 'Current Letter :', letter
 
-fruits = ['banana', 'apple',  'mango']
+fruits = ['banana', 'apple',  'Guva']
 Hello
 for fruit in fruits:        # Second Example
    print 'Current fruit :', fruit
