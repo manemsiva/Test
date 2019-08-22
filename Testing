@@ -1,1 +1,16 @@
-Hello
+#!/usr/bin/python
+
+for letter in 'Python':     # First Example
+   print 'Current Letter :', letter
+fruits = ['banana', 'apple',  'Guva']
+print "siva"
+for fruit in fruits:        # Second Example
+   print 'Current fruit :', apple
+
+print "Good bye!"
+
+Hello siva
+Hai ra
+sample commit 
+Hai siva
+Apple
